@@ -1,2 +1,2 @@
 #!/bin/bash
-find myDir -name "*.html" -exec cp {} ~/otherDir \;
+cp -u *.html /root/alx-system_engineering-devops
